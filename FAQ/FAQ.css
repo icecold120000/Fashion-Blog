@@ -1,0 +1,151 @@
+/* Général*/
+.header a{
+	color: black;
+}
+
+.header a:hover{
+	text-decoration: none; 
+}
+
+h4{
+	font-size: 20px;
+	padding: 30px 20px;
+}
+
+h6{
+	text-align: center;
+	font-size: 15px;
+	font-weight: 50px;
+	color: #000000;
+	border-bottom-color: silver;
+	border-bottom-style: solid;
+	margin: 20px;
+	opacity: 0.5;
+}
+
+.card, .card-body{
+	display: inline-block;
+	width: 100%;
+} 
+.btn-primary:hover{
+	background-color:#3A3A3A;
+	border-color: #3A3A3A;
+}
+
+/* Header*/
+
+header{
+	text-align: center;
+}
+.main p{
+	font-weight: bold;
+	margin-bottom: 0;
+	width: 100%;
+	border: 1px solid black;
+	height: 60px;
+}
+span{
+	margin-right: 0;
+	color: #B0B0B0;
+	font-weight: bold;
+}
+
+/*Les Questions générales*/
+
+#plus1{
+	display:block;
+	color:#FFFFFF;
+}
+#moins1{
+	display:none;
+	color:#FFFFFF;
+}
+#plus2{
+	display:block;
+	color:#FFFFFF;
+}
+#moins2{
+	display:none;
+	color:#FFFFFF;
+}
+#general{
+	padding-left: 20px;
+	width: 50%;
+	display: inline-block;
+	margin-bottom: 300px;
+}
+#general h1{
+	
+}
+#general .btn-primary{
+	height: 60px;
+	width: 60px;
+	background-color:#3A3A3A;
+	border-color: #3A3A3A;
+	position: absolute;
+	right: 50%;
+}
+
+/* Les Autres Questions*/ 
+
+#plus3{
+	display:block;
+	color:#FFFFFF;
+}
+#moins3{
+	display:none;
+	color:#FFFFFF;
+}
+#plus4{
+	display:block;
+	color:#FFFFFF;
+}
+#moins4{
+	display:none;
+	color:#FFFFFF;
+}
+#plus5{
+	display:block;
+	color:#FFFFFF;
+}
+#moins5{
+	display:none;
+	color:#FFFFFF;
+}
+#autre{
+	padding-left: 20px;
+	width: 50%;
+	display: inline-block;
+	float: right;
+}
+#autre .btn-primary{
+	height: 60px;
+	width: 60px;
+	background-color:#3A3A3A;
+	border-color: #3A3A3A;
+	position: absolute;
+	right: 0%;
+}
+
+/* Footer*/ 
+
+footer{
+	background-color:#000000;
+	color:#FFFFFF;
+	padding: 1% 0px 2% 0px;
+	text-align:center;
+}
+footer img{
+	width:16px;
+	height:16px;
+}
+footer a{
+	color:#FFFFFF;
+}
+footer a:hover{
+	color:#FFFFFF;
+}
+.link{
+	padding-bottom:20px;
+	border-bottom:1px solid #444444;
+}
